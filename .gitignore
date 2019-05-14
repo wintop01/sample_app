@@ -21,3 +21,6 @@
 /yarn-error.log
 
 .byebug_history
+
+# 忽略上传的测试图像
+/public/uploads
